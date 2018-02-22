@@ -1,0 +1,38 @@
+pinyin,phonetic,bopomofo,type,subtype
+b,bua,ㄅ,initial,labial
+p,pua,ㄆ,initial,labial
+m,mua,ㄇ,initial,labial
+f,fua,ㄈ,initial,labial
+d,duh,ㄉ,initial,dental
+t,tuh,ㄊ,initial,dental
+n,nuh,ㄋ,initial,dental
+l,luh,ㄌ,initial,dental
+g,guh,ㄍ,initial,gutteral
+k,kuh,ㄎ,initial,gutteral
+h,huh,ㄏ,initial,gutteral
+j,jee,ㄐ,initial,palatal
+q,chee,ㄑ,initial,palatal
+x,shee,ㄒ,initial,palatal
+zh,jur,ㄓ,initial,retroflex
+ch,chur,ㄔ,initial,retroflex
+sh,shur,ㄕ,initial,retroflex
+r,rrr,ㄖ,initial,retroflex
+z,dsuh,ㄗ,initial,dental sibilant
+c,tsuh,ㄘ,initial,dental sibilant
+s,suh,ㄙ,initial,dental sibilant
+i / yi,yee,ㄧ,medial,
+u / wu,woo,ㄨ,medial,
+ü / yu,yoo,ㄩ,medial,
+a,ah,ㄚ,final,
+o,awe,ㄛ,final,
+e,uh,ㄜ,final,
+e / ye,eh,ㄝ,final,
+ai,eye,ㄞ,final,
+ei,ae,ㄟ,final,
+ao,ow,ㄠ,final,
+ou,owe,ㄡ,final,
+an,ahn,ㄢ,final,
+en,uhn,ㄣ,final,
+ang,ahng,ㄤ,final,
+eng,uhng,ㄥ,final,
+er,are,ㄦ,final,
